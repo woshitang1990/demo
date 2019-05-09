@@ -1,0 +1,14 @@
+{
+    "name": "woshitang1990/demo",
+    "description": "a test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "汤磊",
+            "email": "965570591@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
